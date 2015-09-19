@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MCB1313epf.PrjPcb]
+   Generated File[MCB1313epf.TXT]
+   Generated File[MCB1313epf.DRL]
+   Generated File[MCB1313epf.LDP]
+   Generated File[MCB1313epf.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:10:25 On 06/06/2012

@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MCB1313epf.PcbDoc   06/06/2012  10:10:25
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MCB1313epf.TXT
+EIA File   : MCB1313epf.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.6mm (23.622mil)        Round          35               282.99 mm (11.14 Inch)
+T2        0.9mm (35.433mil)        Round          80               398.62 mm (15.69 Inch)
+---------------------------------------------------------------------------
+Totals                                            115              681.61 mm (26.84 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
